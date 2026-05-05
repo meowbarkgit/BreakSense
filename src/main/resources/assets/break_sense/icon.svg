@@ -1,0 +1,28 @@
+<svg width="512" height="512" viewBox="0 0 680 680" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Break Sense icon</title>
+  <desc>Изометрический каменный блок с трещинами и синим свечением</desc>
+
+  <rect x="40" y="40" width="600" height="600" rx="96" fill="#0f0f14"/>
+
+  <!-- Isometric block -->
+  <polygon points="340,170 510,265 340,360 170,265" fill="#6e9c6e"/>
+  <polygon points="170,265 340,360 340,490 170,395" fill="#4a6a4a"/>
+  <polygon points="510,265 340,360 340,490 510,395" fill="#3d5c3d"/>
+
+  <!-- Cracks -->
+  <path d="M275,305 L318,335 L300,372" stroke="#2a3a2a" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M365,312 L400,340" stroke="#2a3a2a" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M308,352 L338,372 L326,402" stroke="#2a3a2a" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- Glow -->
+  <circle cx="340" cy="265" r="28" fill="#5b8cff" opacity="0.12"/>
+  <circle cx="340" cy="265" r="14" fill="#5b8cff" opacity="0.22"/>
+  <circle cx="340" cy="265" r="6" fill="#ffffff" opacity="0.9"/>
+
+  <!-- Spark rays -->
+  <line x1="340" y1="245" x2="340" y2="225" stroke="#5b8cff" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+  <line x1="356" y1="249" x2="368" y2="233" stroke="#5b8cff" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+  <line x1="324" y1="249" x2="312" y2="233" stroke="#5b8cff" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+  <line x1="362" y1="260" x2="382" y2="254" stroke="#5b8cff" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+  <line x1="318" y1="260" x2="298" y2="254" stroke="#5b8cff" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+</svg>
