@@ -19,7 +19,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.19.2",
-		"minecraft": "~26.1.2",
+		"minecraft": "~26.2.0",
 		"controlify": ">=3.0.0"
 	}
 }
