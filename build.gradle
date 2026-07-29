@@ -28,7 +28,7 @@ dependencies {
 	minecraft("com.mojang:minecraft:${project.minecraft_version}")
 	implementation("net.fabricmc:fabric-loader:${project.loader_version}")
 	implementation("net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}")
-	implementation("dev.isxander:controlify:3.0.0+26.1-fabric") {
+	implementation("dev.isxander:controlify:3.0.0+26.2-fabric") {
 		exclude group: "maven.modrinth"
 		exclude group: "net.caffeinemc"
 		exclude group: "com.terraformersmc"
