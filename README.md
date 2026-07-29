@@ -8,7 +8,7 @@ Trigger intensity and feedback type vary based on block material, hardness, tool
 
 | Dependency | Version  |
 |---|----------|
-| Minecraft | ~26.1.x  |
+| Minecraft | ~26.2.x  |
 | Fabric Loader | ≥ 0.19.2 |
 | Controlify | ≥ 3.0.0  |
 
